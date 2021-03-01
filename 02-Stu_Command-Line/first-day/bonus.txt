@@ -1,0 +1,2 @@
+To copy files in the terminal use cp followed by the name of the file you want to copy. 
+Then follow that with the name of the directory you want to copy it to.
