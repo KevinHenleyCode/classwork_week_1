@@ -1,13 +1,16 @@
 /* TODO: Label selector type */
+/* is a universal selector to set the default font */
 * {
     font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
   }
 
+/* changes the background color for the body element */
 /* TODO: Label selector type */
 body {
   background-color: lemonchiffon;
 }
 
+/* gives the same CSS properties to both the header and the footer */
 header,
 footer {
   width: 100%;
@@ -17,16 +20,19 @@ footer {
   background-color: #191970;
 }
 
+/* changes the CSS values for the figure element */
 figure {
   width: 200px;
   background-color: #f0ead6;
 }
 
+/* changes the font weight for the highlighted-text class */
 /* TODO: Label selector type */
 .highlighted-text {
   font-weight: bolder;
 }
 
+/* changes the background for the section id */
 /* TODO: Label selector type */
 #contact-section {
   background-color: #f0ead6;
