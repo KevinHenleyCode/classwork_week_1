@@ -27,18 +27,21 @@ img {
 
 #item-1 {
   background-color: #e0115f;
+  display: inline;
 }
 
 #item-2 {
   background-color: #0000ff;
+  display: inline;
 }
 
 #item-3 {
   background-color: #999900;
+  display: inline;
 }
 
 /* Box 3 */
-#image-3 {
+img{
   /* TODO: Add your code here */
-  display: none;
+  display: block;
 }
